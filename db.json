@@ -1,0 +1,24 @@
+{
+    "Productos":[
+        {
+            "Id" : 1,
+            "Descripción" : "Mouse",
+            "Precio" : "S/ 30.00" 
+        },
+        {
+            "Id" : 2,
+            "Descripción" : "Teclado",
+            "Precio" : "S/ 70.00"
+        },
+        {
+            "Id" : 3,
+            "Descripción" : "Monitor 24P LG",
+            "Precio" : "S/ 450.00"
+        },
+        {
+            "Id" : 4,
+            "Descripción" : "Memoria Ram D4",
+            "Precio" : "S/ 80.00"
+        }
+    ]
+}
